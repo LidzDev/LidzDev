@@ -25,6 +25,7 @@ I'm Lydia, a returning developer after a management career in the media industry
 ## Full Stack Projects
 
 [![](https://img.shields.io/badge/-ᓚᘏᗢ%20PetCMS-000)](https://github.com/LidzDev/pet-cms)
+[![](https://img.shields.io/badge/-Emissions-000)](https://github.com/LidzDev/pet-cms)
 <!--
 **LidzDev/LidzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
