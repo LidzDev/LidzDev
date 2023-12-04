@@ -27,7 +27,7 @@ I'm Lydia, a returning developer after a management career in the media industry
 [![](https://img.shields.io/badge/-ᓚᘏᗢ%20PetCMS-blue)](https://github.com/LidzDev/pet-cms)
 [![](https://img.shields.io/badge/-🚦Emissions%20Calculator-blue)](https://github.com/LidzDev/Emissions-Calculator)
 [![](https://img.shields.io/badge/-🅿️SmartPark-blue)](https://github.com/LidzDev/SmartPark)
-[![](https://img.shields.io/badge/-🗄ParkingData-blue)](https://github.com/LidzDev/ParkingData)
+[![](https://img.shields.io/badge/-ParkingData-blue)](https://github.com/LidzDev/ParkingData)
 <!--
 **LidzDev/LidzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
