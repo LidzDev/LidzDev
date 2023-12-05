@@ -6,6 +6,9 @@ Welcome to my Github page!
 ## About me
 I'm Lydia, a returning developer after a management career in the media industry. I love databases and open source and working with data and metadata to make useful things for people. I've just finished CodeClan, an intense 16 week bootcamp to refresh my technology stack.
 
+## Contact Information
+Find me on [Linked In](https://www.linkedin.com/in/lydia-cordell/)
+
 ## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
